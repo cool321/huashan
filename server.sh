@@ -4,3 +4,5 @@ from pull
 
 
 idea add
+
+server add
